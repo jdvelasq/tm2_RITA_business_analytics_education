@@ -1,6 +1,6 @@
 ---
 
-Record-No: 8
+UT 8
 AR Dean M.D., 2020, TRANS EDUC, V20, P125
 TI Using the learning assistant model in an undergraduate business analytics
    course
@@ -34,7 +34,7 @@ DE ACTIVE_LEARNING; ANALYTICS_EDUCATION; FLIPPED_CLASSROOM;
 
 ---
 
-Record-No: 55
+UT 55
 AR Sunny Park S.-H., 2020, SPRINGER PROC BUS ECON, P317
 TI Teaching a Man to Fish: Teaching Cases of Business Analytics
 AU Sunny Park S.-H.; Park S.; Oldham L.B.
@@ -60,7 +60,7 @@ DE BUSINESS_ANALYTICS; DATA_LAB; EXPERIENTIAL_LEARNING
 
 ---
 
-Record-No: 66
+UT 66
 AR Mashayekhi M., 2020, AM CONF INF SYST AMCIS
 TI Toward designing a business analytics model curriculum for undergraduate
    business students
@@ -95,7 +95,7 @@ ID ADVANCED_ANALYTICS; COMPETITION; CURRICULA; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 79
+UT 79
 AR Jeyaraj A., 2019, J INF SYST EDUC, V30, P67
 TI Teaching Tip: Pedagogy for business analytics courses
 AU Jeyaraj A.
@@ -128,7 +128,7 @@ ID ADVANCED_ANALYTICS; DATA_ACQUISITION; DECISION_MAKING; STUDENTS;
 
 ---
 
-Record-No: 82
+UT 82
 AR Haywood M.E., 2019, INT J EDUC MANAGE, V33, P86
 TI Building a culture of business analytics: a marketing analytics exercise
 AU Haywood M.E.; Mishra A.
@@ -170,7 +170,7 @@ DE BIG_DATA; MARKETING_CURRICULUM
 
 ---
 
-Record-No: 18
+UT 18
 AR Jena R.K., 2019, COMPUT HUM BEHAV, V92, P716
 TI Understanding academic achievement emotions towards business analytics
    course: A case study among business management students from India
@@ -220,7 +220,7 @@ ID ADVANCED_ANALYTICS; STUDENTS; ACHIEVEMENT_EMOTION; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 33
+UT 33
 AR Al-Haddad S., 2019, J EDU BUS, V94, P92
 TI Teaching information technology alongside business analytics: Case study
 AU Al-Haddad S.; Thorne B.; Ahmed V.; Sause W.
@@ -250,7 +250,7 @@ DE BUSINESS_ANALYTICS; CURRICULUM_DEVELOPMENT; EDUCATION; MICROSOFT_EXCEL;
 
 ---
 
-Record-No: 69
+UT 69
 AR Lu J., 2019, LECT NOTES COMPUT SCI, V11331 LNCS, P116
 TI Data science in the business environment: Skills analytics for curriculum
    development
@@ -298,7 +298,7 @@ ID COMPETITIVE_INTELLIGENCE; CURRICULA; DATA_SCIENCE; EDUCATION_COMPUTING;
 
 ---
 
-Record-No: 14
+UT 14
 AR Leclair D., 2018, MARK EDUC REV, V28, P6
 TI Integrating Business Analytics in the Marketing Curriculum: Eight
    Recommendations
@@ -326,7 +326,7 @@ AB advances in technology and marketing practice have left little doubt that
 
 ---
 
-Record-No: 26
+UT 26
 AR Seaba T.R., 2018, INT CONF INTELL INNOV COMPUT APPL ICONIC
 TI Business analytics for institutional academic management: A case of South
    African higher education

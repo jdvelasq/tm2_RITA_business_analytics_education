@@ -1,6 +1,6 @@
 ---
 
-Record-No: 19
+UT 19
 AR Wixom B., 2014, COMMUN ASSOC INFO SYST, V34, P1
 TI The current state of business intelligence in academia: The arrival of big
    data
@@ -39,7 +39,7 @@ ID ADVANCED_ANALYTICS; ARTIFICIAL_INTELLIGENCE; BIG_DATA; COMMERCE;
 
 ---
 
-Record-No: 34
+UT 34
 AR Andoh-Baidoo F.K., 2014, AMER CONF INFO SYST
 TI Business intelligence & analytics education: An exploratory study of
    business & non-business school IS program offerings
@@ -76,7 +76,7 @@ ID COMPETITIVE_INTELLIGENCE; INFORMATION_MANAGEMENT; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 73
+UT 73
 AR Marjanovic O., 2014, PROC AUSTRALAS CONF INF SYST
 TI Sharing and co-Creation of innovative teaching practices in business
    analytics - Insights from an action design research project
@@ -117,7 +117,7 @@ ID INFORMATION_MANAGEMENT; INFORMATION_SYSTEMS; KNOWLEDGE_MANAGEMENT;
 
 ---
 
-Record-No: 97
+UT 97
 AR Davis G.A., 2014, PROC INF SYST EDUC CONF ISECON
 TI Evaluating business intelligence / business analytics software for use in
    the information systems curriculum
@@ -162,7 +162,7 @@ ID ADVANCED_ANALYTICS; COMPETITIVE_INTELLIGENCE;
 
 ---
 
-Record-No: 90
+UT 90
 AR Sharda R., 2013, J COMPT INF TECHNOL, V21, P171
 TI Research and pedagogy in business analytics: Opportunities and illustrative
    examples
@@ -196,7 +196,7 @@ ID SOCIAL_NETWORKING (ONLINE); TEACHING; CURRENT; ATHLETIC_INJURIES;
 
 ---
 
-Record-No: 92
+UT 92
 AR Yang L., 2013, PROC FRONT EDUC CONF FIE, P1516
 TI Teaching business analytics
 AU Yang L.; Liu X.

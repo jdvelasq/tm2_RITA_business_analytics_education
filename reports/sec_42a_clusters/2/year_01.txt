@@ -1,6 +1,6 @@
 ---
 
-Record-No: 43
+UT 43
 AR Shim K.J., 2021, IEEE GLOBAL ENG EDU CONF EDUCON, V2021-April, P1337
 TI Integration of professional certifications with information systems business
    analytics track curriculum
@@ -41,7 +41,7 @@ ID ADVANCED_ANALYTICS; CURRICULA; ENGINEERING_EDUCATION; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 100
+UT 100
 AR Heister S., 2021, J EMERG TECHNOL ACCOUNT, V18, P87
 TI Blockchain and the future of business data analytics
 AU Heister S.; Kaufman M.; Yuthas K.
@@ -72,7 +72,7 @@ DE BLOCKCHAIN; BLOCKCHAIN_AUDIT; BLOCKCHAIN_EDUCATION;
 
 ---
 
-Record-No: 51
+UT 51
 AR Jiang D., 2021, PROC INT SYMP COMPUT INF PROCESS TECHNOL ISCIPT, P577
 TI Teaching Research of Business Data Analytics Course Based on Python
 AU Jiang D.
@@ -112,7 +112,7 @@ ID BIG_DATA; CURRICULA; DATA_HANDLING; HIGH_LEVEL_LANGUAGES;
 
 ---
 
-Record-No: 71
+UT 71
 AR Qasim A., 2020, J EMERG TECHNOL ACCOUNT, V17, P107
 TI Blockchain technology, business data analytics, and artificial intelligence:
    Use in the accounting profession and ideas for inclusion into the accounting
@@ -151,7 +151,7 @@ DE ACCOUNTING_EDUCATION; ARTIFICIAL_INTELLIGENCE; BLOCKCHAIN;
 
 ---
 
-Record-No: 5
+UT 5
 AR Miah S.J., 2020, EDUC INF TECHNOL, V25, P553
 TI A design-based research approach for developing data-focussed business
    curricula
@@ -203,7 +203,7 @@ DE BUSINESS_CURRICULUM; DATA_SCIENCE_EDUCATION; HIGHER_EDUCATION;
 
 ---
 
-Record-No: 55
+UT 55
 AR Sunny Park S.-H., 2020, SPRINGER PROC BUS ECON, P317
 TI Teaching a Man to Fish: Teaching Cases of Business Analytics
 AU Sunny Park S.-H.; Park S.; Oldham L.B.
@@ -229,7 +229,7 @@ DE BUSINESS_ANALYTICS; DATA_LAB; EXPERIENTIAL_LEARNING
 
 ---
 
-Record-No: 79
+UT 79
 AR Jeyaraj A., 2019, J INF SYST EDUC, V30, P67
 TI Teaching Tip: Pedagogy for business analytics courses
 AU Jeyaraj A.
@@ -262,7 +262,7 @@ ID ADVANCED_ANALYTICS; DATA_ACQUISITION; DECISION_MAKING; STUDENTS;
 
 ---
 
-Record-No: 3
+UT 3
 AR Wang S., 2019, J INF SYST EDUC, V30, P19
 TI Teaching tip a teaching module of database-centric online analytical process
    for MBA business analytics programs
@@ -301,7 +301,7 @@ ID ADVANCED_ANALYTICS; BIG_DATA; COMPETITIVE_INTELLIGENCE; DATABASE_SYSTEMS;
 
 ---
 
-Record-No: 33
+UT 33
 AR Al-Haddad S., 2019, J EDU BUS, V94, P92
 TI Teaching information technology alongside business analytics: Case study
 AU Al-Haddad S.; Thorne B.; Ahmed V.; Sause W.
@@ -331,7 +331,7 @@ DE BUSINESS_ANALYTICS; CURRICULUM_DEVELOPMENT; EDUCATION; MICROSOFT_EXCEL;
 
 ---
 
-Record-No: 69
+UT 69
 AR Lu J., 2019, LECT NOTES COMPUT SCI, V11331 LNCS, P116
 TI Data science in the business environment: Skills analytics for curriculum
    development

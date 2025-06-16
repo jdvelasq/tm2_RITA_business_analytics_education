@@ -1,6 +1,6 @@
 ---
 
-Record-No: 17
+UT 17
 AR Swapna G., 2016, AIS SIGED INT CONF IS EDUC RES, V2016-December
 TI Designing a datawarehousing and Business Analytics course using experiential
    learning pedagogy
@@ -53,7 +53,7 @@ ID APPRENTICES; CURRICULA; DATA_WAREHOUSES; STUDENTS; WAREHOUSES;
 
 ---
 
-Record-No: 30
+UT 30
 AR Price B.S., 2016, PROC INF SYST EDUC CONF ISECON, P142
 TI Incorporating program-spanning experiential learning into an online/hybrid
    master of science business data analytics program
@@ -94,7 +94,7 @@ ID BIG_DATA; CURRICULA; E_LEARNING; EDUCATION_COMPUTING; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 84
+UT 84
 AR Dubey R., 2015, IND COMMER TRAIN, V47, P174
 TI Education and training for successful career in big data and business
    analytics
@@ -140,7 +140,7 @@ DE APPRECIATIVE_INQUIRY; BIG_DATA_AND_BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 78
+UT 78
 AR Schiller S., 2015, COMMUN ASSOC INFO SYST, V37, P811
 TI Build your dream (Not just big) analytics program
 AU Schiller S.; Goul M.; Iyer L.S.; Sharda R.; Schrader D.; Asamoah D.A.
@@ -173,7 +173,7 @@ ID ADVANCED_ANALYTICS; DATA_ANALYTICS; BUSINESS_ANALYTICS; CURRICULUM_DESIGNS;
 
 ---
 
-Record-No: 2
+UT 2
 AR Rodammer F., 2015, AM CONF INF SYST AMCIS
 TI The integration of business analytics into a Business College undergraduate
    curriculum
@@ -209,7 +209,7 @@ ID BIG_DATA; COMPETITION; CURRICULA; EDUCATION; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 32
+UT 32
 AR Jalao E.R.L., 2015, PROCEDIA MANUF, V3, P3494
 TI Developing the Manpower Complement for Business Analytics Service
    Professionals: A Case Study on the Challenges Faced by the Philippines
@@ -255,7 +255,7 @@ DE BUSINESS_ANALYTICS; CURRICULUM; SERVICES; TEACHING
 
 ---
 
-Record-No: 19
+UT 19
 AR Wixom B., 2014, COMMUN ASSOC INFO SYST, V34, P1
 TI The current state of business intelligence in academia: The arrival of big
    data
@@ -294,7 +294,7 @@ ID ADVANCED_ANALYTICS; ARTIFICIAL_INTELLIGENCE; BIG_DATA; COMMERCE;
 
 ---
 
-Record-No: 10
+UT 10
 AR Gillon K., 2014, COMMUN ASSOC INFO SYST, V34, P287
 TI Business analytics: Radical shift or incremental change?
 AU Gillon K.; Aral S.; Lin C.-Y.; Mithas S.; Zozulia M.
@@ -331,7 +331,7 @@ ID BIG_DATA; COMPETITION; DATA_MINING; DECISION_SUPPORT_SYSTEMS;
 
 ---
 
-Record-No: 77
+UT 77
 AR Gorman M.F., 2014, INTERFACES, V44, P329
 TI Benchmarking academic programs in business analytics
 AU Gorman M.F.; Klimberg R.K.
@@ -370,7 +370,7 @@ DE ANALYTICS_PROGRAMS; BACHELOR_OF_SCIENCE; BENCHMARKING; CERTIFICATE;
 
 ---
 
-Record-No: 34
+UT 34
 AR Andoh-Baidoo F.K., 2014, AMER CONF INFO SYST
 TI Business intelligence & analytics education: An exploratory study of
    business & non-business school IS program offerings

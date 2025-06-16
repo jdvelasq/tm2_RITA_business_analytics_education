@@ -1,6 +1,6 @@
 ---
 
-Record-No: 4
+UT 4
 AR Zhang Y./1, 2022, MOB INF SYS, V2022
 TI Introducing Business Visual Analytics into Business Education by Information
    Technology and Computing Methods
@@ -35,7 +35,7 @@ ID SEARCH_ENGINES; CURRENT; BUSINESS_COMMUNITY; BUSINESS_EDUCATIONS;
 
 ---
 
-Record-No: 20
+UT 20
 AR Zhu H., 2022, AIS SIGED INT CONF INF SYST EDUC RES, P201
 TI TEACHING DATA QUALITY IN BUSINESS ANALYTICS
 AU Zhu H.
@@ -69,7 +69,7 @@ ID CURRICULA; DATA_REDUCTION; INFORMATION_SYSTEMS; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 48
+UT 48
 AR Nosrati F., 2022, AM CONF INF SYST AMCIS
 TI A Systematic Review of the US Graduate Programs in Business Analytics
 AU Nosrati F.; Burns T.; Gao Y.; Sherman C.A.
@@ -103,7 +103,7 @@ ID DECISION_MAKING; INFORMATION_USE; PERSONNEL_TRAINING; CURRENT;
 
 ---
 
-Record-No: 67
+UT 67
 AR Kuz’Mina E.V., 2022, SMART INNOV SYST TECHNOL, V275, P571
 TI Using the Technology of Collecting and Analyzing Structured Information for
    the Forming Mechanisms of Professional Adaptation Among Students of
@@ -156,7 +156,7 @@ ID CHEMICAL_ANALYSIS; DATA_HANDLING; DATA_MINING; DATA_WAREHOUSES;
 
 ---
 
-Record-No: 99
+UT 99
 AR Hoang V.-N., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P201
 TI Teaching binary logistic regression modeling in an introductory business
    analytics course
@@ -196,7 +196,7 @@ DE BINARY_LOGISTIC_REGRESSION; BUSINESS_ANALYTICS; CLASSIFICATION_MODELING;
 
 ---
 
-Record-No: 93
+UT 93
 AR Williams B., 2021, COMMUN ASSOC INFO SYST, V48, P32
 TI Teaching business analytics during the covid-19 pandemic: A tale of two
    courses
@@ -225,7 +225,7 @@ ID ADVANCED_ANALYTICS; BUSINESS_ANALYTICS; BUSINESS_MAJORS; CORONAVIRUSES;
 
 ---
 
-Record-No: 43
+UT 43
 AR Shim K.J., 2021, IEEE GLOBAL ENG EDU CONF EDUCON, V2021-April, P1337
 TI Integration of professional certifications with information systems business
    analytics track curriculum
@@ -266,7 +266,7 @@ ID ADVANCED_ANALYTICS; CURRICULA; ENGINEERING_EDUCATION; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 37
+UT 37
 AR Zheng Y., 2021, ISSUE INF SYST, V22, P306
 TI An overview of current business analytics programs across US AACSB schools
 AU Zheng Y.; Hameed T.; Lavoie R.; Sendall P.
@@ -305,7 +305,7 @@ DE BUSINESS_ANALYTICS_EDUCATION; DEGREES_AND_SKILLS_OF_PROFESSORS;
 
 ---
 
-Record-No: 51
+UT 51
 AR Jiang D., 2021, PROC INT SYMP COMPUT INF PROCESS TECHNOL ISCIPT, P577
 TI Teaching Research of Business Data Analytics Course Based on Python
 AU Jiang D.
@@ -345,7 +345,7 @@ ID BIG_DATA; CURRICULA; DATA_HANDLING; HIGH_LEVEL_LANGUAGES;
 
 ---
 
-Record-No: 61
+UT 61
 AR Swapna G., 2021, ANNU AMERICAS CONF INF SYST AMCIS
 TI Information systems business analytics curriculum - Competencies from
    national infocomm skills model and job listings

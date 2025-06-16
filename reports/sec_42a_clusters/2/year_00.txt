@@ -1,6 +1,6 @@
 ---
 
-Record-No: 91
+UT 91
 AR Kachouie R., 2024, J INF SYST EDUC, V35, P112
 TI Teaching Tip Threaded Case-Studies to Deepen Engagement in Foundation
    Business Analytics Courses
@@ -48,7 +48,7 @@ ID CURRICULA; E_LEARNING; EDUCATION_COMPUTING; TEACHING; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 101
+UT 101
 AR Wang M., 2024, J INF SYST EDUC, V35, P271
 TI Introducing a Teaching Framework for BDA Curricula With the SAP and ERPsim
    Games: Pedagogy and Assessment
@@ -94,7 +94,7 @@ ID CURRICULA; DATA_ANALYTICS; GAMIFICATION; PROFITABILITY; TEACHING;
 
 ---
 
-Record-No: 103
+UT 103
 AR Zhang Y.G., 2024, J INF SYST EDUC, V35, P86
 TI Delivering a Business Analytics Course Focused on Data Mining for Both
    Technical and Non-Technical Students
@@ -151,7 +151,7 @@ ID COMPUTER_PROGRAMMING; CURRICULA; DECISION_MAKING; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 29
+UT 29
 AR [Anonymous], 2023, PROC ANNU HAWAII INT CONF SYST SCI, V2023-January, P6341
 TI Teaching Analytics in Colleges of Business
 TC 0
@@ -183,7 +183,7 @@ ID BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS; BUSINESS_MAJORS; BUSINESS_USERS;
 
 ---
 
-Record-No: 49
+UT 49
 AR Ye C., 2023, J INF SYST EDUC, V34, P406
 TI A Social Media Analytics Capstone Research Project with Community Engagement
 AU Ye C.; Zhao L.
@@ -222,7 +222,7 @@ ID SOCIAL_NETWORKING (ONLINE); BUSINESS_ANALYTICS; CAPSTONE_COURSE; COMMUNITY;
 
 ---
 
-Record-No: 89
+UT 89
 AR Sebastianelli R., 2023, INT CONF ELEARN DIGIT LEARN ELDL INT CONF SUSTAIN
    TECHNOL EDUC STE, P210
 TI ONLINE MS IN BUSINESS ANALYTICS BEST PRACTICES AND BEYOND
@@ -275,7 +275,7 @@ ID APPLICATION_PROGRAMS; COMPUTER_AIDED_INSTRUCTION; COMPUTER_PROGRAMMING;
 
 ---
 
-Record-No: 98
+UT 98
 AR Bačić D., 2023, J INF SYST EDUC, V34, P216
 TI Building a Business Data Analytics Graduate Certificate
 AU Bačić D.; Jukić N.; Malliaris M.; Nestorov S.; Varma A.
@@ -309,7 +309,7 @@ ID DATA_ANALYTICS; BUSINESS_ANALYTIC_CURRICULUM; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 41
+UT 41
 AR Mills R.J., 2022, J INF SYST EDUC, V33, P232
 TI Examining Trends in Business Analytics Education From 2011 to 2020 in AACSB-
    Accredited Information Systems Programs
@@ -353,7 +353,7 @@ ID CURRICULA; INFORMATION_SYSTEMS; INFORMATION_USE; METADATA; PROFITABILITY;
 
 ---
 
-Record-No: 83
+UT 83
 AR Birkenkrahe M., 2022, LECT NOTES NETWORKS SYST, V349 LNNS, P28
 TI Teaching Data Science in a Synchronous Online Introductory Course at a
    Business School – A Case Study
@@ -400,7 +400,7 @@ DE BUSINESS_SCHOOL; DATA_SCIENCE; TOOLS
 
 ---
 
-Record-No: 93
+UT 93
 AR Williams B., 2021, COMMUN ASSOC INFO SYST, V48, P32
 TI Teaching business analytics during the covid-19 pandemic: A tale of two
    courses

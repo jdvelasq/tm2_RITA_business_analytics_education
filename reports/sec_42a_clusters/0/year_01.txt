@@ -1,6 +1,6 @@
 ---
 
-Record-No: 89
+UT 89
 AR Sebastianelli R., 2023, INT CONF ELEARN DIGIT LEARN ELDL INT CONF SUSTAIN
    TECHNOL EDUC STE, P210
 TI ONLINE MS IN BUSINESS ANALYTICS BEST PRACTICES AND BEYOND
@@ -53,7 +53,7 @@ ID APPLICATION_PROGRAMS; COMPUTER_AIDED_INSTRUCTION; COMPUTER_PROGRAMMING;
 
 ---
 
-Record-No: 95
+UT 95
 AR Dickson K., 2023, LECT NOTES INST COMPUT SCI SOC INFORMATICS TELECOMMUN ENG,
    V514 LNICST, P305
 TI An Integrated Framework for Assessing Data and Business Analytics Skills for
@@ -107,7 +107,7 @@ ID COMMERCE; COMPETITION; CURRICULA; EMPLOYMENT; QUALITY_CONTROL;
 
 ---
 
-Record-No: 98
+UT 98
 AR Bačić D., 2023, J INF SYST EDUC, V34, P216
 TI Building a Business Data Analytics Graduate Certificate
 AU Bačić D.; Jukić N.; Malliaris M.; Nestorov S.; Varma A.
@@ -141,7 +141,7 @@ ID DATA_ANALYTICS; BUSINESS_ANALYTIC_CURRICULUM; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 41
+UT 41
 AR Mills R.J., 2022, J INF SYST EDUC, V33, P232
 TI Examining Trends in Business Analytics Education From 2011 to 2020 in AACSB-
    Accredited Information Systems Programs
@@ -185,7 +185,7 @@ ID CURRICULA; INFORMATION_SYSTEMS; INFORMATION_USE; METADATA; PROFITABILITY;
 
 ---
 
-Record-No: 64
+UT 64
 AR Johnson M.E., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P17
 TI Teaching Bayesian and Markov methods in business analytics curricula: An
    integrated approach
@@ -223,7 +223,7 @@ AB in the era of ARTIFICIAL_INTELLIGENCE ( ai ) , BIG_DATA ( bd ) , and
 
 ---
 
-Record-No: 1
+UT 1
 AR Anand T., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P235
 TI Objectives and curriculum for a graduate business analytics capstone:
    Reflections from practice
@@ -266,7 +266,7 @@ DE ARTIFICIAL_INTELLIGENCE_MACHINE_LEARNING; BUSINESS_ANALYTICS; CAPSTONE;
 
 ---
 
-Record-No: 83
+UT 83
 AR Birkenkrahe M., 2022, LECT NOTES NETWORKS SYST, V349 LNNS, P28
 TI Teaching Data Science in a Synchronous Online Introductory Course at a
    Business School – A Case Study
@@ -313,7 +313,7 @@ DE BUSINESS_SCHOOL; DATA_SCIENCE; TOOLS
 
 ---
 
-Record-No: 25
+UT 25
 AR Hartzel K.S., 2022, AM CONF INF SYST AMCIS
 TI Aligning Business Analytics Programs with Industry Required Knowledge,
    Skills and Abilities
@@ -345,7 +345,7 @@ ID INFORMATION_SYSTEMS; INFORMATION_USE; SYSTEMS_ANALYSIS; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 45
+UT 45
 AR Cadersaib Z., 2022, IEEE GLOBAL ENG EDU CONF EDUCON, V2022-March, P2114
 TI Enterprise Resource Planning integrated with Business Analytics in Higher
    Education
@@ -384,7 +384,7 @@ ID CURRICULA; ENTERPRISE_RESOURCE_PLANNING; RESOURCE_ALLOCATION; STUDENTS;
 
 ---
 
-Record-No: 94
+UT 94
 AR Phuong H.M., 2022, LECT NOTES NETWORKS SYST, V471 LNNS, P168
 TI A Proposed Business Intelligence Framework for Autonomous and Non-public
    Higher Education Institutions in Vietnam

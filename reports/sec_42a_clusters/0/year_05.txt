@@ -1,6 +1,6 @@
 ---
 
-Record-No: 74
+UT 74
 AR Goeke R.J., 2018, INF RESOUR MANAGE J, V31, P17
 TI The Effect of Education on Information Systems Success: Lessons from Human
    Resources
@@ -37,7 +37,7 @@ ID ADVANCED_ANALYTICS; EDUCATION; INFORMATION_SYSTEMS; PERSONNEL;
 
 ---
 
-Record-No: 26
+UT 26
 AR Seaba T.R., 2018, INT CONF INTELL INNOV COMPUT APPL ICONIC
 TI Business analytics for institutional academic management: A case of South
    African higher education
@@ -86,7 +86,7 @@ ID INFORMATION_MANAGEMENT; ACADEMIC_MANAGEMENTS; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 85
+UT 85
 AR Peta J. Jr., 2018, PROC INT CONF IND ENG OPER MANAGE, V2018, P1936
 TI Delivery of Quant and Business Statistics courses to the Business students
    and developing MS in Business Analytics to meet the demands of the
@@ -114,7 +114,7 @@ AB in the first part of the presentation , i will discuss how to best introduce
 
 ---
 
-Record-No: 21
+UT 21
 AR Carillo K.D.A., 2017, BUS PROCESS MANAGE J, V23, P598
 TI Let’s stop trying to be “sexy” – preparing managers for the (big) data-
    driven business era
@@ -182,7 +182,7 @@ DE ANALYTICS; BIG_DATA; BUSINESS_SCHOOLS; CURRICULA; DATA_SCIENCE;
 
 ---
 
-Record-No: 39
+UT 39
 AR Morgan J., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
    V2017-August
 TI Using business analytics to target baseball free agents: A case study
@@ -223,7 +223,7 @@ ID CURRICULA; DATA_ACQUISITION; DATA_MINING; DATA_VISUALIZATION;
 
 ---
 
-Record-No: 28
+UT 28
 AR Tarasewich P., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
    V2017-August
 TI Building an online business analytics graduate program
@@ -260,7 +260,7 @@ ID DATA_VISUALIZATION; DECISION_MAKING; DESIGN; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 36
+UT 36
 AR Turel O., 2016, COMMUN ASSOC INFO SYST, V39, P96
 TI A business analytics maturity perspective on the gap between business
    schools and presumed industry needs
@@ -300,7 +300,7 @@ ID COMMERCE; EDUCATION; EMPLOYMENT; PERSONNEL_TRAINING; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 68
+UT 68
 AR Tremblay M.C., 2016, J AM MED INFORMATICS ASSOC, V23, P824
 TI Health informatics and analytics - building a program to integrate business
    analytics across clinical and administrative disciplines
@@ -347,7 +347,7 @@ ID COMMERCE; CURRICULUM; EDUCATION_GRADUATE; EMPLOYMENT;
 
 ---
 
-Record-No: 46
+UT 46
 AR Deng X., 2016, INT CONF INF SYST ICIS
 TI Business analytics education: A latent semantic analysis of skills,
    knowledge and abilities required for business versus NonBusiness Graduates
@@ -387,7 +387,7 @@ ID COMMERCE; CURRICULA; DATA_MINING; EDUCATION; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 57
+UT 57
 AR Saundage D., 2016, J INF SYST EDUC, V27, P233
 TI Teaching data analysis with interactive visual narratives
 AU Saundage D.; Cybulski J.L.; Keller S.; Dharmasena L.

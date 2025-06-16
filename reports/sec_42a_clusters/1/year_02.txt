@@ -1,6 +1,6 @@
 ---
 
-Record-No: 67
+UT 67
 AR Kuz’Mina E.V., 2022, SMART INNOV SYST TECHNOL, V275, P571
 TI Using the Technology of Collecting and Analyzing Structured Information for
    the Forming Mechanisms of Professional Adaptation Among Students of
@@ -53,7 +53,7 @@ ID CHEMICAL_ANALYSIS; DATA_HANDLING; DATA_MINING; DATA_WAREHOUSES;
 
 ---
 
-Record-No: 99
+UT 99
 AR Hoang V.-N., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P201
 TI Teaching binary logistic regression modeling in an introductory business
    analytics course
@@ -93,7 +93,7 @@ DE BINARY_LOGISTIC_REGRESSION; BUSINESS_ANALYTICS; CLASSIFICATION_MODELING;
 
 ---
 
-Record-No: 93
+UT 93
 AR Williams B., 2021, COMMUN ASSOC INFO SYST, V48, P32
 TI Teaching business analytics during the covid-19 pandemic: A tale of two
    courses
@@ -122,7 +122,7 @@ ID ADVANCED_ANALYTICS; BUSINESS_ANALYTICS; BUSINESS_MAJORS; CORONAVIRUSES;
 
 ---
 
-Record-No: 43
+UT 43
 AR Shim K.J., 2021, IEEE GLOBAL ENG EDU CONF EDUCON, V2021-April, P1337
 TI Integration of professional certifications with information systems business
    analytics track curriculum
@@ -163,7 +163,7 @@ ID ADVANCED_ANALYTICS; CURRICULA; ENGINEERING_EDUCATION; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 75
+UT 75
 AR Larson B.E., 2021, J INF TECHNOL EDUC, V20, P1
 TI Innovative Pedagogical Strategies of Streaming, Just-in-time Teaching, and
    Scaffolding: A Case Study of using Videos to add Business Analytics
@@ -208,7 +208,7 @@ DE BUSINESS_CURRICULUM; CURRICULUM_IMPLEMENTATION; DATA_ANALYTICS;
 
 ---
 
-Record-No: 88
+UT 88
 AR Mitra S., 2021, TRANS EDUC, V21, P130
 TI Predictors of choosing business analytics concentration and consequent
    academic performance
@@ -248,7 +248,7 @@ DE COLLEGE_MAJOR; CONCENTRATION_CHOICE; DARK_TRIAD; PERSONALITY_TRAITS;
 
 ---
 
-Record-No: 15
+UT 15
 AR Jaggia S., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P612
 TI Applying the CRISP-DM Framework for Teaching Business Analytics
 AU Jaggia S.; Kelly A.; Lertwachara K.; Chen L.
@@ -287,7 +287,7 @@ DE ANALYTICS_PROJECT; BUSINESS_ANALYTICS; CRISP_DM; DATA_WRANGLING;
 
 ---
 
-Record-No: 63
+UT 63
 AR Yazici H.J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P589
 TI Project-Based Learning for Teaching Business Analytics in the Undergraduate
    Curriculum*
@@ -317,7 +317,7 @@ DE ANALYTICAL_SKILLS; BUSINESS_ANALYTICS; PROJECT_BASED_LEARNING;
 
 ---
 
-Record-No: 58
+UT 58
 AR Zhang L., 2020, J INF SYST EDUC, V31, P244
 TI Teaching Tip A Foundation Course in Business Analytics: Design and
    Implementation at Two Universities
@@ -355,7 +355,7 @@ ID ADVANCED_ANALYTICS; STUDENTS; BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS;
 
 ---
 
-Record-No: 7
+UT 7
 AR Speier-Pero C., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P59
 TI Creating Impactful Student Learning in a Business Analytics Program through
    Leveraging Scholar-Practitioner Engagement

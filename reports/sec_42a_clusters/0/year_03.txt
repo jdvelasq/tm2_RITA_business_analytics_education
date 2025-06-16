@@ -1,6 +1,6 @@
 ---
 
-Record-No: 71
+UT 71
 AR Qasim A., 2020, J EMERG TECHNOL ACCOUNT, V17, P107
 TI Blockchain technology, business data analytics, and artificial intelligence:
    Use in the accounting profession and ideas for inclusion into the accounting
@@ -39,7 +39,7 @@ DE ACCOUNTING_EDUCATION; ARTIFICIAL_INTELLIGENCE; BLOCKCHAIN;
 
 ---
 
-Record-No: 53
+UT 53
 AR Johnson M.E., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P90
 TI Exploratory Analysis to Identify Concepts, Skills, Knowledge, and Tools to
    Educate Business Analytics Practitioners
@@ -76,7 +76,7 @@ DE ANALYTICS_EDUCATION; CURRICULUM_DESIGN; BUSINESS_ANALYTICS
 
 ---
 
-Record-No: 63
+UT 63
 AR Yazici H.J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P589
 TI Project-Based Learning for Teaching Business Analytics in the Undergraduate
    Curriculum*
@@ -106,7 +106,7 @@ DE ANALYTICAL_SKILLS; BUSINESS_ANALYTICS; PROJECT_BASED_LEARNING;
 
 ---
 
-Record-No: 5
+UT 5
 AR Miah S.J., 2020, EDUC INF TECHNOL, V25, P553
 TI A design-based research approach for developing data-focussed business
    curricula
@@ -158,7 +158,7 @@ DE BUSINESS_CURRICULUM; DATA_SCIENCE_EDUCATION; HIGHER_EDUCATION;
 
 ---
 
-Record-No: 58
+UT 58
 AR Zhang L., 2020, J INF SYST EDUC, V31, P244
 TI Teaching Tip A Foundation Course in Business Analytics: Design and
    Implementation at Two Universities
@@ -196,7 +196,7 @@ ID ADVANCED_ANALYTICS; STUDENTS; BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS;
 
 ---
 
-Record-No: 27
+UT 27
 AR Seal K.C., 2020, INFORMS J APPL ANALYTICS, V50, P239
 TI Delivering business analytics competencies and skills: A supply side
    assessment
@@ -233,7 +233,7 @@ DE BUSINESS_ANALYTICS_CURRICULUM; BUSINESS_ANALYTICS_SKILLS_EDUCATION;
 
 ---
 
-Record-No: 31
+UT 31
 AR Chongwatpol J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P409
 TI Operationalizing Design Thinking in Business Intelligence and Analytics
    Projects
@@ -269,7 +269,7 @@ DE DESIGN_THINKING; BUSINESS_ANALYTICS; BUSINESS_EDUCATION;
 
 ---
 
-Record-No: 8
+UT 8
 AR Dean M.D., 2020, TRANS EDUC, V20, P125
 TI Using the learning assistant model in an undergraduate business analytics
    course
@@ -303,7 +303,7 @@ DE ACTIVE_LEARNING; ANALYTICS_EDUCATION; FLIPPED_CLASSROOM;
 
 ---
 
-Record-No: 56
+UT 56
 AR Dong T., 2020, AM CONF INF SYST AMCIS
 TI Aligning BI&A curriculum with industry demand
 AU Dong T.; Triche J.
@@ -343,7 +343,7 @@ ID ADVANCED_ANALYTICS; INFORMATION_SYSTEMS; INFORMATION_USE; ACADEMIC_PROGRAM;
 
 ---
 
-Record-No: 55
+UT 55
 AR Sunny Park S.-H., 2020, SPRINGER PROC BUS ECON, P317
 TI Teaching a Man to Fish: Teaching Cases of Business Analytics
 AU Sunny Park S.-H.; Park S.; Oldham L.B.

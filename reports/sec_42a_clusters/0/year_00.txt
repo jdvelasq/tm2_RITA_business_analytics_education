@@ -1,6 +1,6 @@
 ---
 
-Record-No: 91
+UT 91
 AR Kachouie R., 2024, J INF SYST EDUC, V35, P112
 TI Teaching Tip Threaded Case-Studies to Deepen Engagement in Foundation
    Business Analytics Courses
@@ -48,7 +48,7 @@ ID CURRICULA; E_LEARNING; EDUCATION_COMPUTING; TEACHING; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 101
+UT 101
 AR Wang M., 2024, J INF SYST EDUC, V35, P271
 TI Introducing a Teaching Framework for BDA Curricula With the SAP and ERPsim
    Games: Pedagogy and Assessment
@@ -94,7 +94,7 @@ ID CURRICULA; DATA_ANALYTICS; GAMIFICATION; PROFITABILITY; TEACHING;
 
 ---
 
-Record-No: 102
+UT 102
 AR Gharehgozli A., 2024, J EDU BUS, V99, P11
 TI Developing an undergraduate business analytics program for a public state-
    funded business school
@@ -123,7 +123,7 @@ DE BUSINESS_ADMINISTRATION; BUSINESS_ANALYTICS; PROGRAM_DEVELOPMENT;
 
 ---
 
-Record-No: 103
+UT 103
 AR Zhang Y.G., 2024, J INF SYST EDUC, V35, P86
 TI Delivering a Business Analytics Course Focused on Data Mining for Both
    Technical and Non-Technical Students
@@ -180,7 +180,7 @@ ID COMPUTER_PROGRAMMING; CURRICULA; DECISION_MAKING; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 47
+UT 47
 AR Sankaran S., 2023, DECIS SCI J INNOVATIVE EDUC, V21, P68
 TI Student satisfaction with R vs.  Excel in Data Mining and Business
    Analytics: A Herzberg's motivation-hygiene theory perspective
@@ -219,7 +219,7 @@ DE ANALYTICS; CURRICULUM_DESIGN; ORGANIZATION_BEHAVIOR_THEORY; STATISTICS
 
 ---
 
-Record-No: 12
+UT 12
 AR Cavique L., 2023, EMERG SCI J, V7, P1976
 TI A Data Science Maturity Model Applied to Students' Modeling
 AU Cavique L.; Pombinho P.; Correia L.
@@ -260,7 +260,7 @@ DE BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; CAUSALITY; MATURITY_MODEL;
 
 ---
 
-Record-No: 23
+UT 23
 AR Lei L., 2023, RUTG BUSI REV, V8, P1
 TI Empowering Business Students: The Rise of Experiential Learning,
    Collaborative Mentoring, and Data Science
@@ -291,7 +291,7 @@ AB the CORE_MISSION of PUBLIC_BUSINESS_SCHOOLS has significantly expanded given
 
 ---
 
-Record-No: 29
+UT 29
 AR [Anonymous], 2023, PROC ANNU HAWAII INT CONF SYST SCI, V2023-January, P6341
 TI Teaching Analytics in Colleges of Business
 TC 0
@@ -323,7 +323,7 @@ ID BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS; BUSINESS_MAJORS; BUSINESS_USERS;
 
 ---
 
-Record-No: 86
+UT 86
 AR Dang M.Y., 2023, INT J INF COMMUN TECHNOL EDUC, V19
 TI Impact of Course Learning Factors on Student Interest in Business Analytics
    Careers
@@ -365,7 +365,7 @@ ID ARTIFICIAL_INTELLIGENCE; CURRICULA; ACTIVE_LEARNING; BUSINESS_ANALYTIC;
 
 ---
 
-Record-No: 87
+UT 87
 AR Carroll P., 2023, SN OPER RES FORUM, V4
 TI Analytics Modules for Business Students
 AU Carroll P.

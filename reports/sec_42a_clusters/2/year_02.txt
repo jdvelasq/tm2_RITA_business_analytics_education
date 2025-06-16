@@ -1,6 +1,6 @@
 ---
 
-Record-No: 26
+UT 26
 AR Seaba T.R., 2018, INT CONF INTELL INNOV COMPUT APPL ICONIC
 TI Business analytics for institutional academic management: A case of South
    African higher education
@@ -49,7 +49,7 @@ ID INFORMATION_MANAGEMENT; ACADEMIC_MANAGEMENTS; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 39
+UT 39
 AR Morgan J., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
    V2017-August
 TI Using business analytics to target baseball free agents: A case study
@@ -90,7 +90,7 @@ ID CURRICULA; DATA_ACQUISITION; DATA_MINING; DATA_VISUALIZATION;
 
 ---
 
-Record-No: 28
+UT 28
 AR Tarasewich P., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
    V2017-August
 TI Building an online business analytics graduate program
@@ -127,7 +127,7 @@ ID DATA_VISUALIZATION; DECISION_MAKING; DESIGN; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 57
+UT 57
 AR Saundage D., 2016, J INF SYST EDUC, V27, P233
 TI Teaching data analysis with interactive visual narratives
 AU Saundage D.; Cybulski J.L.; Keller S.; Dharmasena L.
@@ -166,7 +166,7 @@ ID DATA_HANDLING; DATA_VISUALIZATION; EDUCATION; INFORMATION_ANALYSIS;
 
 ---
 
-Record-No: 52
+UT 52
 AR Zadeh A.H., 2016, AMCIS SURFING IT INNOV WAVE AMERICAS CONF INF SYST
 TI Teaching analytics: A demonstration of association discovery with SAS
    enterprise miner
@@ -215,7 +215,7 @@ ID BEHAVIORAL_RESEARCH; DATA_VISUALIZATION; DECISION_MAKING; MINERS; STUDENTS;
 
 ---
 
-Record-No: 17
+UT 17
 AR Swapna G., 2016, AIS SIGED INT CONF IS EDUC RES, V2016-December
 TI Designing a datawarehousing and Business Analytics course using experiential
    learning pedagogy
@@ -268,7 +268,7 @@ ID APPRENTICES; CURRICULA; DATA_WAREHOUSES; STUDENTS; WAREHOUSES;
 
 ---
 
-Record-No: 30
+UT 30
 AR Price B.S., 2016, PROC INF SYST EDUC CONF ISECON, P142
 TI Incorporating program-spanning experiential learning into an online/hybrid
    master of science business data analytics program
@@ -309,7 +309,7 @@ ID BIG_DATA; CURRICULA; E_LEARNING; EDUCATION_COMPUTING; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 24
+UT 24
 AR Balkan S., 2015, COMMUN ASSOC INFO SYST, V37, P586
 TI Teaching predictive model management in MIS classrooms: A tutorial
 AU Balkan S.; Demirkan H.
@@ -354,7 +354,7 @@ ID COMPETITIVE_INTELLIGENCE; EDUCATION_COMPUTING; PREDICTIVE_ANALYTICS;
 
 ---
 
-Record-No: 32
+UT 32
 AR Jalao E.R.L., 2015, PROCEDIA MANUF, V3, P3494
 TI Developing the Manpower Complement for Business Analytics Service
    Professionals: A Case Study on the Challenges Faced by the Philippines
@@ -400,7 +400,7 @@ DE BUSINESS_ANALYTICS; CURRICULUM; SERVICES; TEACHING
 
 ---
 
-Record-No: 40
+UT 40
 AR Ghosh B., 2015, CSEDU INT CONF COMPUT SUPPORT EDUC PROC, V2, P5
 TI Project based learning to support enterprise busineß analytics education:
    The Role of Croß Functional Groups to Enhance Cognitive Outcomes

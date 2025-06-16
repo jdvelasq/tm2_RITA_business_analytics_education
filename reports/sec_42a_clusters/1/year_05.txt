@@ -1,6 +1,6 @@
 ---
 
-Record-No: 17
+UT 17
 AR Swapna G., 2016, AIS SIGED INT CONF IS EDUC RES, V2016-December
 TI Designing a datawarehousing and Business Analytics course using experiential
    learning pedagogy
@@ -53,7 +53,7 @@ ID APPRENTICES; CURRICULA; DATA_WAREHOUSES; STUDENTS; WAREHOUSES;
 
 ---
 
-Record-No: 30
+UT 30
 AR Price B.S., 2016, PROC INF SYST EDUC CONF ISECON, P142
 TI Incorporating program-spanning experiential learning into an online/hybrid
    master of science business data analytics program
@@ -94,7 +94,7 @@ ID BIG_DATA; CURRICULA; E_LEARNING; EDUCATION_COMPUTING; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 2
+UT 2
 AR Rodammer F., 2015, AM CONF INF SYST AMCIS
 TI The integration of business analytics into a Business College undergraduate
    curriculum
@@ -130,7 +130,7 @@ ID BIG_DATA; COMPETITION; CURRICULA; EDUCATION; INFORMATION_SYSTEMS;
 
 ---
 
-Record-No: 50
+UT 50
 AR Marjanovic O., 2015, ACIS PROC AUSTRALAS CONF INFORM SYST
 TI Using collaborative visual analytics for innovative industry-inspired
    learning activities
@@ -170,7 +170,7 @@ DE BUSINESS_INTELLIGENCE_AND_ANALYTICS; DATA_VISUALISATION;
 
 ---
 
-Record-No: 24
+UT 24
 AR Balkan S., 2015, COMMUN ASSOC INFO SYST, V37, P586
 TI Teaching predictive model management in MIS classrooms: A tutorial
 AU Balkan S.; Demirkan H.
@@ -215,7 +215,7 @@ ID COMPETITIVE_INTELLIGENCE; EDUCATION_COMPUTING; PREDICTIVE_ANALYTICS;
 
 ---
 
-Record-No: 32
+UT 32
 AR Jalao E.R.L., 2015, PROCEDIA MANUF, V3, P3494
 TI Developing the Manpower Complement for Business Analytics Service
    Professionals: A Case Study on the Challenges Faced by the Philippines
@@ -261,7 +261,7 @@ DE BUSINESS_ANALYTICS; CURRICULUM; SERVICES; TEACHING
 
 ---
 
-Record-No: 40
+UT 40
 AR Ghosh B., 2015, CSEDU INT CONF COMPUT SUPPORT EDUC PROC, V2, P5
 TI Project based learning to support enterprise busineß analytics education:
    The Role of Croß Functional Groups to Enhance Cognitive Outcomes
@@ -311,7 +311,7 @@ ID BENCHMARKING; DECISION_MAKING; HUMAN_COMPUTER_INTERACTION; MOTIVATION;
 
 ---
 
-Record-No: 19
+UT 19
 AR Wixom B., 2014, COMMUN ASSOC INFO SYST, V34, P1
 TI The current state of business intelligence in academia: The arrival of big
    data
@@ -350,7 +350,7 @@ ID ADVANCED_ANALYTICS; ARTIFICIAL_INTELLIGENCE; BIG_DATA; COMMERCE;
 
 ---
 
-Record-No: 77
+UT 77
 AR Gorman M.F., 2014, INTERFACES, V44, P329
 TI Benchmarking academic programs in business analytics
 AU Gorman M.F.; Klimberg R.K.
@@ -389,7 +389,7 @@ DE ANALYTICS_PROGRAMS; BACHELOR_OF_SCIENCE; BENCHMARKING; CERTIFICATE;
 
 ---
 
-Record-No: 34
+UT 34
 AR Andoh-Baidoo F.K., 2014, AMER CONF INFO SYST
 TI Business intelligence & analytics education: An exploratory study of
    business & non-business school IS program offerings

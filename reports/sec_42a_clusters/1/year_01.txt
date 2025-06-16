@@ -1,6 +1,6 @@
 ---
 
-Record-No: 89
+UT 89
 AR Sebastianelli R., 2023, INT CONF ELEARN DIGIT LEARN ELDL INT CONF SUSTAIN
    TECHNOL EDUC STE, P210
 TI ONLINE MS IN BUSINESS ANALYTICS BEST PRACTICES AND BEYOND
@@ -53,7 +53,7 @@ ID APPLICATION_PROGRAMS; COMPUTER_AIDED_INSTRUCTION; COMPUTER_PROGRAMMING;
 
 ---
 
-Record-No: 95
+UT 95
 AR Dickson K., 2023, LECT NOTES INST COMPUT SCI SOC INFORMATICS TELECOMMUN ENG,
    V514 LNICST, P305
 TI An Integrated Framework for Assessing Data and Business Analytics Skills for
@@ -107,7 +107,7 @@ ID COMMERCE; COMPETITION; CURRICULA; EMPLOYMENT; QUALITY_CONTROL;
 
 ---
 
-Record-No: 98
+UT 98
 AR Bačić D., 2023, J INF SYST EDUC, V34, P216
 TI Building a Business Data Analytics Graduate Certificate
 AU Bačić D.; Jukić N.; Malliaris M.; Nestorov S.; Varma A.
@@ -141,7 +141,7 @@ ID DATA_ANALYTICS; BUSINESS_ANALYTIC_CURRICULUM; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 64
+UT 64
 AR Johnson M.E., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P17
 TI Teaching Bayesian and Markov methods in business analytics curricula: An
    integrated approach
@@ -179,7 +179,7 @@ AB in the era of ARTIFICIAL_INTELLIGENCE ( ai ) , BIG_DATA ( bd ) , and
 
 ---
 
-Record-No: 1
+UT 1
 AR Anand T., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P235
 TI Objectives and curriculum for a graduate business analytics capstone:
    Reflections from practice
@@ -222,7 +222,7 @@ DE ARTIFICIAL_INTELLIGENCE_MACHINE_LEARNING; BUSINESS_ANALYTICS; CAPSTONE;
 
 ---
 
-Record-No: 22
+UT 22
 AR Page G., 2022, LECT NOTES INST COMPUT SCI SOC INFORMATICS TELECOMMUN ENG,
    V450 LNICST, P274
 TI Reflections on the Applied Business Analytics Student Writing Project
@@ -253,7 +253,7 @@ ID DATA_ANALYTICS; DATA_SCIENCE; STUDENTS; BOSTON_UNIVERSITY;
 
 ---
 
-Record-No: 45
+UT 45
 AR Cadersaib Z., 2022, IEEE GLOBAL ENG EDU CONF EDUCON, V2022-March, P2114
 TI Enterprise Resource Planning integrated with Business Analytics in Higher
    Education
@@ -292,7 +292,7 @@ ID CURRICULA; ENTERPRISE_RESOURCE_PLANNING; RESOURCE_ALLOCATION; STUDENTS;
 
 ---
 
-Record-No: 4
+UT 4
 AR Zhang Y./1, 2022, MOB INF SYS, V2022
 TI Introducing Business Visual Analytics into Business Education by Information
    Technology and Computing Methods
@@ -327,7 +327,7 @@ ID SEARCH_ENGINES; CURRENT; BUSINESS_COMMUNITY; BUSINESS_EDUCATIONS;
 
 ---
 
-Record-No: 20
+UT 20
 AR Zhu H., 2022, AIS SIGED INT CONF INF SYST EDUC RES, P201
 TI TEACHING DATA QUALITY IN BUSINESS ANALYTICS
 AU Zhu H.
@@ -361,7 +361,7 @@ ID CURRICULA; DATA_REDUCTION; INFORMATION_SYSTEMS; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 48
+UT 48
 AR Nosrati F., 2022, AM CONF INF SYST AMCIS
 TI A Systematic Review of the US Graduate Programs in Business Analytics
 AU Nosrati F.; Burns T.; Gao Y.; Sherman C.A.

@@ -1,0 +1,28 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper defining the dominant themes in BUSINESS ANALYTICS EDUCATION.
+
+
+PAPER TITLE:
+Trends in Business Analytics Education: Innovation, Learning, and Pedagogy. 
+
+
+TASK:
+Prepare a paragraph to attend the reviewer commentary: 
+
+"""
+There are some aspects could be improved:  Analyze cultural aspects (evolution of BA education on different countries and how it has been implemented, trying to identify common practices in order to propose a common curricula)
+"""
+
+
+LENGTH:
+300 words maximum
+
+
+DATA:
+Use the following text to write the paragraph.
+
+

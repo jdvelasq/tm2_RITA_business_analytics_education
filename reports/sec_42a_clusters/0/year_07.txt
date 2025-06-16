@@ -1,6 +1,6 @@
 ---
 
-Record-No: 35
+UT 35
 AR Palocsay S.W., 2014, J EDU BUS, V89, P110
 TI Management Science in U.S. AACSB International-Accredited Core Undergraduate
    Business School Curricula
@@ -31,7 +31,7 @@ DE BUSINESS_ANALYTICS; BUSINESS_CORE_CURRICULA; MANAGEMENT_SCIENCE;
 
 ---
 
-Record-No: 60
+UT 60
 AR Mamonov S., 2014, PROC INF SYST EDUC CONF ISECON
 TI Business analytics in practice and in education: A Competency-based
    perspective
@@ -82,7 +82,7 @@ ID CURRICULA; INFORMATION_SYSTEMS; INFORMATION_USE; BUSINESS_ANALYTICS;
 
 ---
 
-Record-No: 97
+UT 97
 AR Davis G.A., 2014, PROC INF SYST EDUC CONF ISECON
 TI Evaluating business intelligence / business analytics software for use in
    the information systems curriculum
@@ -127,7 +127,7 @@ ID ADVANCED_ANALYTICS; COMPETITIVE_INTELLIGENCE;
 
 ---
 
-Record-No: 42
+UT 42
 AR Marjanovic O., 2013, PROC ANNU HAWAII INT CONF SYST SCI, P50
 TI Sharing and reuse of innovative teaching practices in emerging business
    analytics discipline
@@ -167,7 +167,7 @@ ID KNOWLEDGE_MANAGEMENT; SYSTEMS_SCIENCE; EDUCATIONAL_RESEARCH;
 
 ---
 
-Record-No: 65
+UT 65
 AR Gillon K., 2012, INTERNAT CONF INF SYST ICIS 2012, V3, P2383
 TI Business analytics: Radical shift or incremental change?
 AU Gillon K.; Brynjolfsson E.; Griffin J.; Gupta M.; Mithas S.
@@ -203,7 +203,7 @@ ID COMPETITION; CURRICULA; DATA_MINING; DECISION_SUPPORT_SYSTEMS;
 
 ---
 
-Record-No: 6
+UT 6
 AR Marjanovic O., 2012, ECIS PROC EUR CONF INF SYST
 TI Using the Revised Bloom's taxonomy to scaffold student learning in Business
    Intelligence/Business Analytics
